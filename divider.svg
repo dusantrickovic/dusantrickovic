@@ -1,0 +1,7 @@
+<svg width="100%" viewBox="0 0 680 24" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Section divider</title>
+  <desc>A thin line with a small diamond center marker</desc>
+  <line x1="0" y1="12" x2="316" y2="12" stroke="#2a2a2a" stroke-width="0.5"/>
+  <rect x="322" y="8" width="8" height="8" fill="none" stroke="#444" stroke-width="0.5" transform="rotate(45 326 12)"/>
+  <line x1="332" y1="12" x2="680" y2="12" stroke="#2a2a2a" stroke-width="0.5"/>
+</svg>

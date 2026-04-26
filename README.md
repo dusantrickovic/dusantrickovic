@@ -1,13 +1,7 @@
 <div align="center">
-
-# dusant
-### `@dusantrickovic`
-
-*Software Engineer &nbsp;·&nbsp; 3+ years*
-
+  <img src="banner.svg" alt="dusant" />
 </div>
-
----
+<br>
 
 Generalist. I've got a curious spirit and I like learning unfamiliar codebases, connecting different technologies. The works.
 
@@ -17,13 +11,13 @@ For a long time I kept most of my work private. A comfort zone I've grown quite 
 
 I'm expanding into open-source contributions, technical writing, and side projects built in the open. Not because I have everything figured out, but because the discomfort of working in public is exactly where the growth is.
 
----
+<img src="divider.svg" alt="" />
 
 **Main stack**
 
 `C#` &nbsp; `Python` &nbsp; `TypeScript` &nbsp;
 
----
+<img src="divider.svg" alt="" />
 
 **Current focus**
 
@@ -33,13 +27,13 @@ I'm expanding into open-source contributions, technical writing, and side projec
 - open-source contributions
 - building and writing in public
 
----
+<img src="divider.svg" alt="" />
 
 *Lovely to meet you!*
 
 -Dusan
 
----
+<img src="divider.svg" alt="" />
 
 <div align="left">
 

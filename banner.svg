@@ -1,0 +1,23 @@
+<svg width="100%" viewBox="0 0 680 90" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>dusant</title>
+  <desc>Header banner for dusant's GitHub profile</desc>
+  <defs>
+    <linearGradient id="fadeA" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1a1a1a" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#1a1a1a" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#1a1a1a" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#1a1a1a" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="10" cy="10" r="1" fill="#444"/>
+    </pattern>
+    <mask id="maskA">
+      <rect width="680" height="90" fill="url(#fadeA)"/>
+    </mask>
+  </defs>
+  <rect width="680" height="90" fill="#0d0d0d" rx="4"/>
+  <rect width="680" height="90" fill="url(#dots)" mask="url(#maskA)" rx="4"/>
+  <line x1="40" y1="45" x2="240" y2="45" stroke="#333" stroke-width="0.5"/>
+  <line x1="440" y1="45" x2="640" y2="45" stroke="#333" stroke-width="0.5"/>
+  <text x="340" y="51" font-family="monospace" font-size="18" fill="#e0e0e0" text-anchor="middle" letter-spacing="8">dusant</text>
+</svg>
